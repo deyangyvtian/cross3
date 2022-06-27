@@ -1,8 +1,8 @@
 {
-  "name": "heroku-vless",
-  "description": "Deploy vless on Heroku.",
+  "name": "cross",
+  "description": "",
   "keywords": [
-    "vless"
+    "less"
   ],
   "env": {
     "UUID": {
@@ -10,7 +10,7 @@
       "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
     }
   },
-  "website": "https://github.com/rptec/",
-  "repository": "https://github.com/rptec/heroku-vless",
+  "website": "https://github.com/deyangyvtian/",
+  "repository": "https://github.com/deyangyvtian/cross3",
   "stack": "container"
 }
